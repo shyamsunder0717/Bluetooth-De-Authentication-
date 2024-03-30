@@ -1,1 +1,2 @@
-# Bluetooth-De-Authentication-
+# Bluetooth-De-Authentication
+- Educational Purpose only
